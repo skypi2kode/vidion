@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# From this point onwards, vidion's dev-specific blocking
+# XAMPP default htdocs content
+DEFAULTXAMPP/
